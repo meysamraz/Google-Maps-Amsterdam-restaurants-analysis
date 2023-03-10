@@ -62,3 +62,6 @@ I used Google Maps to get data about restaurants in Amsterdam. Unfortunately, it
 - [seaborn](https://seaborn.pydata.org/)
 - [termcolor](https://pypi.org/project/termcolor/)
 - [wordcloud](https://pypi.org/project/wordcloud/)
+- [geopy](https://geopy.readthedocs.io/)
+- [folium](https://python-visualization.github.io/folium/)
+
