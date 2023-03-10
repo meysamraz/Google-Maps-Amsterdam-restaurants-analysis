@@ -1,3 +1,9 @@
+"""
+Created on  March 10  2023
+@author: Meysam Raz
+"""
+
+
 from selenium.webdriver.common.keys import Keys
 from selenium import webdriver
 import pandas as pd
@@ -108,5 +114,5 @@ def get_restaurants(chromedriver_path,city_restaurant):
     return df
 
 
-df_restaurants = get_restaurants('chromedriver.exe',"amsterdam restaurants")
+df_restaurants = get_restaurants('YOUR_CHROMEDRIVER_PATH',"CITY_NAME restaurants")
 df_restaurants.to_csv('Amsterdam_restaurants.csv',index=False)
