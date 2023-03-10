@@ -5,7 +5,7 @@ Who is this analysis for ?
 - Tourists, those who travel to Amsterdam and those who live in Amsterdam can use this analysis to find the best restaurants.
 - Those who are looking to start a business in the restaurant industry and provide services in Amsterdam
 
-I used Google Maps to get data about restaurants in Amsterdam. Unfortunately, it is not possible for those who live in Iran to access Google APIs :( But this is not the end of the work, I was able to create two robots using Selenium and scrape the Google Map data. The first bot [Google_maps_scraper.py](https://github.com/meysamraz/Google-Maps-Amsterdam-restaurants-analysis/blob/master/Google_maps_scraper.py) is from the Google Map site for scraping. It uses and is able to scrape restaurant reviews and the second bot [Google_scraper.py](https://github.com/meysamraz/Google-Maps-Amsterdam-restaurants-analysis/blob/master/Google_scraper.py) uses Google to collect data. 
+I used Google Maps to get data about restaurants in Amsterdam. Unfortunately, it is not possible for those who live in Iran to access Google APIs :( But this is not the end of the work, I was able to create two robots using Selenium and scrape the Google maps data. The first bot [Google_maps_scraper.py](https://github.com/meysamraz/Google-Maps-Amsterdam-restaurants-analysis/blob/master/Google_maps_scraper.py) is from the Google Map site for scraping. It uses and is able to scrape restaurant reviews and the second bot [Google_scraper.py](https://github.com/meysamraz/Google-Maps-Amsterdam-restaurants-analysis/blob/master/Google_scraper.py) uses Google to collect data. 
 
 # Project Overview :
 - ### 1 - Scraping data from Google maps
