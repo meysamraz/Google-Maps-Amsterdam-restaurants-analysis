@@ -1,3 +1,9 @@
+"""
+Created on  March 10  2023
+@author: Meysam Raz
+"""
+
+
 from selenium.webdriver.common.keys import Keys
 from selenium import webdriver
 import pandas as pd
@@ -133,7 +139,7 @@ def get_restaurants(chromedriver_path,city_restaurant_url,getting_comments=True)
 
 
 
-df_details_final = get_restaurants('chromedriver.exe',"https://www.google.com/maps/search/Restaurants/@52.3730777,4.74684,10z/data=!4m2!2m1!6e5",getting_comments=False)
+df_details_final = get_restaurants('YOUR_CHROMEDRIVER_PATH',"GOOGLE_MAP_LINK",getting_comments=False)
 
 df_details_final.to_csv('Amsterdam_restaurants.csv',index=False)
 
