@@ -9,6 +9,10 @@ I used Google Maps to get data about restaurants in Amsterdam. Unfortunately, it
 
 ![alt Text](https://github.com/meysamraz/Google-Maps-Amsterdam-restaurants-analysis/blob/master/src/demo_scraper1.gif)![alt Text](https://github.com/meysamraz/Google-Maps-Amsterdam-restaurants-analysis/blob/master/src/demo_scraper2.gif)
 
+<img src = "src/plot1.png" width ="250" /> <img src = "src/plot2.png" width ="250" /> <img src = "src/plot3.png" width ="250" />  <img src = "src/plot4.png" width ="250" />
+
+<img src = "src/plot5.png" width ="250" /> <img src = "src/plot6.png" width ="250" /> <img src = "src/plot7.png" width ="250" />  <img src = "src/plot8.png" width ="250" />
+
 
 
 # Project Overview :
@@ -47,3 +51,14 @@ I used Google Maps to get data about restaurants in Amsterdam. Unfortunately, it
 - ### 4 - Get latitude and longitude based on the addresses
     - Which area of Amsterdam has the most restaurants?
     - Where are most luxury restaurants located ?
+
+
+
+##  Libraries used in the project
+
+- [pandas](https://pandas.pydata.org/)
+- [numpy](https://numpy.org/)
+- [matplotlib](https://matplotlib.org/)
+- [seaborn](https://seaborn.pydata.org/)
+- [termcolor](https://pypi.org/project/termcolor/)
+- [wordcloud](https://pypi.org/project/wordcloud/)
