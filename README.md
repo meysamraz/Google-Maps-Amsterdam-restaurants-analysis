@@ -1,5 +1,6 @@
 # Google Maps Amsterdam restaurants analysis
 In this project, I scraped details of Amsterdam restaurants from Google Maps using Selenium and analyzed the data. 
+![alt Text](https://a.cdn-hotels.com/gdcs/production145/d843/b1301c62-3d30-4bf4-9ef2-dc4102595147.jpg)
 
 Who is this analysis for ?
 - Tourists, those who travel to Amsterdam and those who live in Amsterdam can use this analysis to find the best restaurants.
